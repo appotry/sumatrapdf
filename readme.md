@@ -15,6 +15,8 @@ SumatraPDF 是非常优秀的epub/mobi/pdf阅读器,启动速度快,轻量小巧
 
 https://github.com/jijinggang/sumatrapdf/raw/master/download/SumatraPDF.zip
 
+![截图](ScreenSnap.png)
+
 ## SumatraPDF Reader
 
 SumatraPDF is a multi-format (PDF, EPUB, MOBI, FB2, CHM, XPS, DjVu) reader
